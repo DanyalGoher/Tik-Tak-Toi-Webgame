@@ -1,4 +1,8 @@
-**#Tik-Tak-Toi**
+**#Tik-Tak-Toi:**
+It is a two player game which allow both player to select there option between X and O 
+and if any one get three signs in a row he wins to try this game
+Click👉[Click to Play](https://60ezyhmrrhwwhu0tpa8alw.on.drv.tw/www.TikTakToi.com/).
+
 
 **#Web-View**
 
